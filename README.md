@@ -1,1 +1,1 @@
-Using sklearn to create a k nearest neighbor classifer that is trained to predict whether a patient has breast cancer
+Using sklearn to create a k nearest neighbor classifier trained to predict whether a patient has breast cancer. Includes a plot of classifier accuracies with k values from 1-100 to find the most accurate k value.
